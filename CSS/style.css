@@ -1,0 +1,49 @@
+.img{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: rgb(108, 204, 248);
+    font-size: 70px;
+    margin-bottom: 10px;
+    text-decoration: underline;
+    
+}
+
+h2{
+    text-align: center;
+    color: rgb(184, 233, 255);
+    font-size: 45px;
+}
+
+body{
+    font-family: Kanit;
+    background-color: rgb(31, 31, 31);
+}
+
+.container{
+    justify-content: center;
+    text-align: center;  
+    width: auto;
+}
+
+.box{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    border: 5px solid#fff;
+    width: 700px;
+    text-align: center;  
+}
+
+.text{
+    color: rgb(241, 241, 241);
+    font-size: 26px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
